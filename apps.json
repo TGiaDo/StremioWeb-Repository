@@ -1,0 +1,10 @@
+[
+  {
+    "id": "com.truonggia.stremioweb",
+    "title": "Stremio Web",
+    "version": "0.3.0",
+    "description": "Stremio Web for LG webOS",
+    "icon": "assets/icon.png",
+    "ipk": "packages/com.truonggia.stremioweb_0.3.0_all.ipk"
+  }
+]
