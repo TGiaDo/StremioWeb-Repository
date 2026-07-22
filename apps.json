@@ -21,9 +21,9 @@
         "rootRequired": true,
         "ipkUrl": "https://raw.githubusercontent.com/TGiaDo/StremioWeb-Repository/main/packages/com.truonggia.stremioweb_0.3.0_all.ipk",
         "ipkHash": {
-          "sha256": "1504841ddd270bc460d1ebb5e0ad018bd8ca1ebb4fd53c9c9791109768ac1d8a"
+          "sha256": "2a7580afdf2583459bd98d0152f19400df4e4cfa192d4253dbc1c9c8962ff859"
         },
-        "ipkSize": 3953970
+        "ipkSize": 3953986
       },
       "pool": "main",
       "shortDescription": "Stremio Web for LG webOS"
