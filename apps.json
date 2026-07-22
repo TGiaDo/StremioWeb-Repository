@@ -1,10 +1,32 @@
-[
-  {
-    "id": "com.truonggia.stremioweb",
-    "title": "Stremio Web",
-    "version": "0.3.0",
-    "description": "Stremio Web for LG webOS",
-    "icon": "assets/icon.png",
-    "ipk": "packages/com.truonggia.stremioweb_0.3.0_all.ipk"
-  }
-]
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "com.truonggia.stremioweb",
+      "title": "Stremio Web",
+      "iconUri": "https://raw.githubusercontent.com/TGiaDo/StremioWeb-Repository/main/assets/icon.png",
+      "manifest": {
+        "id": "com.truonggia.stremioweb",
+        "version": "0.3.0",
+        "type": "web",
+        "title": "Stremio Web",
+        "appDescription": "Stremio Web for LG webOS",
+        "iconUri": "https://raw.githubusercontent.com/TGiaDo/StremioWeb-Repository/main/assets/icon.png",
+        "sourceUrl": "https://github.com/TGiaDo/StremioWeb-v1",
+        "rootRequired": true,
+        "ipkUrl": "https://raw.githubusercontent.com/TGiaDo/StremioWeb-Repository/main/packages/com.truonggia.stremioweb_0.3.0_all.ipk",
+        "ipkHash": {
+          "sha256": "b505029f16a83b0e8227df6951ca42ec45bb9e8b5724c13f6274d9f1ee517ff5"
+        },
+        "ipkSize": 5312870
+      },
+      "pool": "main",
+      "shortDescription": "Stremio Web for LG webOS"
+    }
+  ]
+}
