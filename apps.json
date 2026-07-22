@@ -21,7 +21,7 @@
         "rootRequired": true,
         "ipkUrl": "https://raw.githubusercontent.com/TGiaDo/StremioWeb-Repository/main/packages/com.truonggia.stremioweb_0.3.0_all.ipk",
         "ipkHash": {
-          "sha256": "b505029f16a83b0e8227df6951ca42ec45bb9e8b5724c13f6274d9f1ee517ff5"
+          "sha256": "842dac835eb2da0313ef9d279838f4058dbe5a2eb24e4277c221a66da3fa4993"
         },
         "ipkSize": 5312870
       },
